@@ -95,7 +95,7 @@ cd boston_housing_mlp
 ````
 2. Instale as dependencias:
 ```bash
-pip install -r requirements.txt
+pip install -r requisitos.txt
 ```
 
 3. Abra o notebook `BostonHousing_MLP.ipynb` no Jupyter e execute as células. 
